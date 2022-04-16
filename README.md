@@ -28,7 +28,7 @@ The main purpose of this project is to use the power of internet and technology 
 ![image](https://user-images.githubusercontent.com/85548288/163666306-af5edb59-0ce6-4c05-928a-c7188794aec5.png)
 
 # Links
-Download project : https://github.com/Dhairya0/Foodify __.
-Contributors: https://github.com/Dhairya0, https://github.com/Yash851, https://github.com/kinanahirani, https://github.com/19ce030.
+Download project : [Foodify](https://github.com/Dhairya0/Foodify) .
+Contributors: [Dhairya Gajjar](https://github.com/Dhairya0), [Yash Gandhi](https://github.com/Yash851), [Kinana Hirani](https://github.com/kinanahirani), [Krish Gohil](https://github.com/19ce030).
 
 
