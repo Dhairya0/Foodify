@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/drawable-v21/c11_four_rounded_corner2.xml" value="0.2405" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/drawable/c11_four_rounded_corner2.xml" value="0.2405" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/drawable/c12_phone.xml" value="0.1" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/drawable/c12_profile.xml" value="0.241" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/drawable/custom_button_0.xml" value="0.2405" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_add_item.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_admin_home.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_canteen_feedback.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_canteen_manager.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_canteen_menu.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_canteen_order.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_canteen_order_deliver.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_canteen_order_status.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_complain_main.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_contact_feedback.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_doctor__list__appointments.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_doctor__pending__appointments.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_doctor__profile.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_generate_qr.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_item_edit.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_item_quantity.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_login_.xml" value="0.16695652727729227" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_main.xml" value="0.2754782700075322" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_ongo_com_students.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_ongo_previous_complains.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_ongo_to_reso_com.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_order_status.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_order_summary.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_payment.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_pen_to_ongo_com.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_place_order.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_previous_complains.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_read_qr.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_sign_up.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_sign_up__non__student.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_splashscreen.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_student__profile.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_supervisior_main.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_supervisor_main_ongo.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_supervisor_main_reso.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_thanks.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/activity_user_list__item__details.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/app_bar_layout.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/appointment_list_item.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/batch_confirm_pa_layout.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/dish_info.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/fragment_menu.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/fragment_past_orders.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/fragment_professor_current_orders.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/student_profile_edit_text_layout.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/layout/userlist_item.xml" value="0.2509057971014493" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/menu/appointment_history.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/menu/doctor_bottom_navigation.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/menu/doctor_pa_menu.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/menu/menu_admin.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/menu/menu_canteen_manager.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/menu/menu_canteen_menu.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/menu/menu_canteen_order.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/menu/menu_home_page.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/menu/menu_order_summary.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/menu/sd_bottom_navigation.xml" value="0.2942708333333333" />
+        <entry key="..\:/Campus_Services-master (3)/Campus_Services-master/app/src/main/res/xml/pref_user_list.xml" value="0.2509057971014493" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/c31_c33_payment"
+    tools:context=".Payment">
+
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="84dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/paiment"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="-16dp" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/image1"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/c11_four_rounded_corner2"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toStartOf="@+id/image1"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toEndOf="@+id/image1"
+        app:layout_constraintTop_toBottomOf="@+id/image1">
+
+        <TextView
+            android:id="@+id/c31_c33_payment_amount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginRight="15dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textColorHint="@color/black"
+            android:padding="10dp"
+            android:background="@drawable/c13_bg_round"
+            android:drawableStart="@drawable/c11f1_c11f2_rupee_indian"
+            android:textColor="?android:attr/textColorPrimary"/>
+        <!--        <com.google.android.material.textfield.TextInputLayout-->
+        <!--            android:id="@+id/outlinedTextField"-->
+        <!--            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:layout_marginLeft="15dp"-->
+        <!--            android:layout_marginTop="50dp"-->
+        <!--            android:layout_marginRight="15dp"-->
+        <!--            android:hint="Enter amount"-->
+        <!--            android:labelFor="@id/payment_amount"-->
+        <!--            android:textColorHint="@color/black"-->
+        <!--            app:boxCornerRadiusBottomEnd="10dp"-->
+        <!--            app:boxCornerRadiusBottomStart="10dp"-->
+        <!--            app:boxCornerRadiusTopEnd="10dp"-->
+        <!--            app:boxCornerRadiusTopStart="10dp"-->
+        <!--            app:boxStrokeColor="@color/blue_700"-->
+        <!--            app:hintTextColor="@color/blue_500">-->
+
+        <!--            <com.google.android.material.textfield.TextInputEditText-->
+        <!--                android:id="@+id/payment_amount"-->
+        <!--                android:layout_width="match_parent"-->
+        <!--                android:layout_height="wrap_content"-->
+        <!--                android:inputType="numberDecimal"-->
+        <!--                android:padding="10dp"-->
+        <!--                android:textColor="@color/black"-->
+        <!--                android:textSize="20sp" />-->
+
+        <!--        </com.google.android.material.textfield.TextInputLayout>-->
+
+        <!--        </LinearLayout>-->
+        <!--        <LinearLayout-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="0dp"-->
+        <!--            android:orientation="vertical"-->
+        <!--            android:layout_weight="6"-->
+        <!--            android:layout_gravity="center"-->
+        <!--            android:gravity="center">-->
+        <Button
+            android:id="@+id/make_payment_btn"
+            style="?attr/materialButtonOutlinedStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:outlineSpotShadowColor="@color/black"
+            android:shadowColor="@color/black"
+            android:text="Pay Now"
+            android:textColor="@color/black" />
+
+        <!--        <Button-->
+        <!--            android:id="@+id/make_payment_btn"-->
+        <!--            android:layout_width="wrap_content"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:layout_gravity="center"-->
+        <!--            android:layout_marginLeft="10dp"-->
+        <!--            android:layout_marginTop="40dp"-->
+        <!--            android:layout_marginRight="10dp"-->
+        <!--            android:layout_marginBottom="10dp"-->
+        <!--            android:backgroundTint="@color/white"-->
+        <!--            android:text="Make Payment"-->
+        <!--            android:textColor="@color/purple_500" />-->
+        <!--        <ImageButton-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="200dp"-->
+        <!--            android:src="https://checkout.razorpay.com/v1/payment-button.js"-->
+        <!--            app:layout_constraintTop_toTopOf="@id/payment_details_txt"-->
+        <!--            app:layout_constraintRight_toRightOf="parent"-->
+        <!--            app:layout_constraintLeft_toLeftOf="parent"-->
+        <!--            app:layout_constraintBottom_toBottomOf="parent"-->
+
+        <!--            />-->
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/payment_details_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_margin="20dp"
+        android:textColor="@color/black"
+        android:visibility="visible"
+        app:layout_constraintTop_toBottomOf="@id/linearLayout"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:hint="Paymnent Status" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

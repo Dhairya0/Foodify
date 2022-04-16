@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.campus_services">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Splashscreen" />
+        <activity android:name=".OngoComStudents" />
+        <activity android:name=".SupervisorMainReso" />
+        <activity android:name=".SupervisorMainOngo" />
+        <activity android:name=".OngoToResoCom" />
+        <activity android:name=".ResoPreviousComplains" />
+        <activity android:name=".OngoPreviousComplains" />
+        <activity android:name=".PenToOngoCom" />
+        <activity android:name=".SupervisiorMain" />
+        <activity android:name=".PreviousComplains" />
+        <activity android:name=".ComplainActivityMain" />
+        <activity android:name=".ReadQR" />
+        <activity android:name=".CanteenFeedback" />
+        <activity android:name=".CanteenOrderDeliver" />
+        <activity android:name=".CanteenOrderStatus" />
+        <activity android:name=".ItemEdit" />
+        <activity android:name=".ContactFeedback" />
+        <activity android:name=".GenerateQR" />
+        <activity android:name=".OrderSummary" />
+        <activity android:name=".OrderStatus" />
+        <activity android:name=".UserListSetting" />
+        <activity android:name=".Payment" />
+        <activity android:name=".Thanks" />
+        <activity android:name=".ItemQuantity" />
+        <activity android:name=".AddItem" />
+        <activity android:name=".SignUp_Non_Student" />
+        <activity android:name=".Login_Activity" />
+        <activity android:name=".Student_Profile" />
+        <activity android:name=".CanteenManager" />
+        <activity android:name=".CanteenMenu" />
+        <activity android:name=".CanteenOrderActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".AdminHome" />
+        <activity android:name=".UserList_Item_Details" />
+        <activity android:name=".Doctor_Profile" />
+        <activity android:name=".Doctor_List_Appointments" />
+        <activity android:name=".Doctor_Pending_Appointments" />
+        <activity android:name=".SD_Register_Appointment" />
+        <activity android:name=".SD_Appointments" />
+        <activity android:name=".SD_Appointment_History" />
+        <activity android:name=".PlaceOrder" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat" />
+    </application>
+
+</manifest>
