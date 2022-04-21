@@ -74,7 +74,7 @@ public class Payment extends AppCompatActivity implements PaymentResultListener 
                 //options.put("order_id", "order_DBJOWzybf0sJbb");//from response of step 3.
                 options.put("theme.color", "#3399cc");
                 options.put("currency", "INR");
-                options.put("amount", "1500");//pass amount in currency subunits
+                options.put("amount", value*100);//pass amount in currency subunits
                 options.put("prefill.email", "dhairya9921@gmail.com");
                 options.put("prefill.contact","7990352624");
                 JSONObject retryObj = new JSONObject();
