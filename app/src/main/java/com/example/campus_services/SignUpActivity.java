@@ -41,7 +41,7 @@ public class SignUpActivity extends AppCompatActivity {
         String name=etName.getText().toString().trim();
         String phone=etPhoneNumber.getText().toString().trim()  ;
 
-        String t="201701448@charust.ac.in";
+        String t="201701448@charusat.ac.in";
 
         int i=0;
         while(i<email.length() && email.charAt(i)!='@')
